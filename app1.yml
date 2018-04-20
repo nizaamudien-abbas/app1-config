@@ -2,4 +2,5 @@ server:
   port: 8881
   servlet:
       context-path: /app1
-message: from github repo app1-config
+message1: message1 from github repo app1-config
+message2: message2 from github repo app1-config
