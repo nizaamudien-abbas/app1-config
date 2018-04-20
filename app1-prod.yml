@@ -1,0 +1,6 @@
+server:
+  port: 8881
+  servlet:
+      context-path: /app1
+message1: message1 from app-config repo -> app-prod-yml
+message2: message2 from app-config repo -> app-prod-yml
